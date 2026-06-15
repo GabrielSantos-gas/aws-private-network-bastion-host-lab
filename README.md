@@ -63,6 +63,7 @@ Outbound Rules:
 Acesso realizado com sucesso à instância Bastion Host utilizando SSH.
 
 Posteriormente foi realizado acesso à instância privada através da Bastion Host.
+![alt text](Screenshots/ssh-private.png)
 
 ### Conectividade com a Internet
 
